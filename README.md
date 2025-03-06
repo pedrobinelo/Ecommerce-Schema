@@ -51,7 +51,7 @@ Also, refine the presented model by adding the following points:
 
 ## ✅ Solution
 
-<img align="center" src="https://github.com/pedrobinelo/Database-modeling-Ecommerce/blob/main/ecommerce.png" width=""/> 
+<img align="center" src="https://github.com/pedrobinelo/Ecommerce-Schema/blob/main/eer.png" width=""/> 
 
 ## 💻 Technologies 
 
